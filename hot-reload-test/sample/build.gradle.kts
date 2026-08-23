@@ -18,7 +18,7 @@ kotlin {
     jvm()
 
     sourceSets.jvmMain.dependencies {
-        implementation("org.jetbrains.compose.hot-reload:runtime-api:1.3.0-alpha+217")
+        implementation("org.jetbrains.compose.hot-reload:runtime-api:1.3.0-alpha+218")
         implementation(compose.runtime)
     }
 
